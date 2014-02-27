@@ -1,12 +1,12 @@
-The phenome gem is for downloading phenome datasets
+The phenome gem is for downloading phenome datasets.
 
-Right now, you can download mouse phenome datasets from http://phenome.jax.org/
+Right now, you can download mouse phenome datasets from http://phenome.jax.org/.
 
 # Example usage:  
 
 First you would go to http://phenome.jax.org/ and select the samples to download.
 Go through the process of creating a csv file, and then copy the url of the csv file.
-Paste the url file in the code below:
+Paste the url of the csv file in the code below:
 
 ```
 require "phenome"
